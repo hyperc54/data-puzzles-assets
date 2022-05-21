@@ -1,0 +1,250 @@
+city,lat,lng
+Tokyo,35.6839,139.7744
+Jakarta,-6.2146,106.8451
+Manila,14.6,120.9833
+Seoul,37.56,126.99
+Mexico City,19.4333,-99.1333
+Cairo,30.0444,31.2358
+Beijing,39.904,116.4075
+Moscow,55.7558,37.6178
+Bangkok,13.75,100.5167
+Dhaka,23.7289,90.3944
+Buenos Aires,-34.5997,-58.3819
+Kinshasa,-4.3317,15.3139
+Tehran,35.7,51.4167
+London,51.5072,-0.1275
+Paris,48.8566,2.3522
+Lima,-12.06,-77.0375
+Luanda,-8.8383,13.2344
+Kuala Lumpur,3.1478,101.6953
+Hanoi,21.0245,105.8412
+Bogotá,4.6126,-74.0705
+Dar es Salaam,-6.8,39.2833
+Hong Kong,22.3069,114.1831
+Santiago,-33.45,-70.6667
+Riyadh,24.65,46.71
+Baghdad,33.35,44.4167
+Khartoum,15.6031,32.5265
+Madrid,40.4167,-3.7167
+Nairobi,-1.2864,36.8172
+Rangoon,16.795,96.16
+Washington,38.9047,-77.0163
+Singapore,1.3,103.8
+Abidjan,5.3364,-4.0267
+Kabul,34.5328,69.1658
+Amman,31.95,35.9333
+Berlin,52.5167,13.3833
+Algiers,36.7764,3.0586
+Addis Ababa,9.0272,38.7369
+Brasília,-15.7939,-47.8828
+Kuwait City,29.375,47.98
+Kyiv,50.45,30.5236
+Sanaa,15.35,44.2
+Guatemala City,14.6099,-90.5252
+Rome,41.8931,12.4828
+La Paz,-16.4942,-68.1475
+Pyongyang,39.03,125.73
+Antananarivo,-18.9386,47.5214
+Santo Domingo,18.4764,-69.8933
+Tashkent,41.3,69.2667
+Ouagadougou,12.3686,-1.5275
+Yaoundé,3.8578,11.5181
+Accra,5.6037,-0.187
+Baku,40.3667,49.8352
+Harare,-17.8292,31.0522
+Havana,23.1367,-82.3589
+Phnom Penh,11.5696,104.921
+Mogadishu,2.0408,45.3425
+Bamako,12.6458,-7.9922
+Quito,-0.22,-78.5125
+Minsk,53.9022,27.5618
+Caracas,10.5,-66.9333
+Vienna,48.2083,16.3725
+Bucharest,44.4,26.0833
+Brazzaville,-4.2667,15.2833
+Warsaw,52.23,21.0111
+Damascus,33.5131,36.2919
+Brussels,50.8353,4.3314
+Lusaka,-15.4167,28.2833
+Budapest,47.4983,19.0408
+Conakry,9.538,-13.6773
+Kampala,0.3136,32.5811
+Abu Dhabi,24.4511,54.3969
+Muscat,23.6139,58.5922
+Ulaanbaatar,47.9214,106.9055
+Belgrade,44.8167,20.4667
+Prague,50.0833,14.4167
+Montevideo,-34.8667,-56.1667
+Sofia,42.6979,23.3217
+Abuja,9.0556,7.4914
+Maputo,-25.9153,32.5764
+Doha,25.3,51.5333
+Dakar,14.7319,-17.4572
+Nay Pyi Taw,19.7475,96.115
+Kigali,-1.9536,30.0606
+Tripoli,32.8752,13.1875
+Tegucigalpa,14.0942,-87.2067
+Tbilisi,41.7225,44.7925
+N’Djamena,12.11,15.05
+Copenhagen,55.6805,12.5615
+Yerevan,40.1814,44.5144
+Nur-Sultan,51.1333,71.4333
+Nouakchott,18.0858,-15.9785
+Bishkek,42.8667,74.5667
+Tunis,36.8008,10.18
+Kathmandu,27.7167,85.3667
+Niamey,13.5086,2.1111
+Managua,12.15,-86.2667
+Monrovia,6.3106,-10.8047
+Port-au-Prince,18.5425,-72.3386
+Islamabad,33.6989,73.0369
+Ottawa,45.4247,-75.695
+Stockholm,59.3294,18.0686
+Asmara,15.3333,38.9167
+Freetown,8.4833,-13.2331
+Vientiane,17.9667,102.6
+Jerusalem,31.7801,35.2213
+Bangui,4.3732,18.5628
+Panama City,9.0,-79.5
+Amsterdam,52.3667,4.8833
+Lomé,6.1319,1.2228
+Libreville,0.3901,9.4544
+Zagreb,45.8131,15.9772
+Dushanbe,38.5731,68.7864
+Lilongwe,-13.9833,33.7833
+Cotonou,6.402,2.518
+Colombo,6.9167,79.8333
+Pretoria,-25.7464,28.1881
+Oslo,59.9111,10.7528
+Athens,37.9842,23.7281
+Bujumbura,-3.3825,29.3611
+Helsinki,60.1756,24.9342
+Skopje,41.9833,21.4333
+Chisinau,47.0228,28.8353
+Riga,56.9475,24.1069
+Kingston,17.9714,-76.7931
+Rabat,34.0253,-6.8361
+Vilnius,54.6833,25.2833
+San Salvador,13.6989,-89.1914
+Djibouti,11.595,43.1481
+Dublin,53.3497,-6.2603
+The Hague,52.08,4.31
+Asunción,-25.3,-57.6333
+Lisbon,38.708,-9.139
+Bratislava,48.1447,17.1128
+Tallinn,59.4372,24.745
+Beirut,33.8869,35.5131
+Cape Town,-33.925,18.425
+Tirana,41.33,19.82
+Wellington,-41.2889,174.7772
+Dodoma,-6.1835,35.746
+Bissau,11.8592,-15.5956
+Canberra,-35.2931,149.1269
+Juba,4.85,31.6
+Yamoussoukro,6.8161,-5.2742
+Maseru,-29.31,27.48
+Nicosia,35.1725,33.365
+Windhoek,-22.57,17.0836
+Port Moresby,-9.4789,147.1494
+Porto-Novo,6.4833,2.6167
+Sucre,-19.0431,-65.2592
+San José,9.9333,-84.0833
+Ljubljana,46.05,14.5167
+Sarajevo,43.8563,18.4132
+Nassau,25.0667,-77.3333
+Bloemfontein,-29.1,26.2167
+Fort-de-France,14.6104,-61.08
+New Delhi,28.6139,77.209
+Gaborone,-24.6569,25.9086
+Paramaribo,5.8667,-55.1667
+Dili,-8.5536,125.5783
+Male,4.175,73.5083
+Georgetown,6.7833,-58.1667
+Gibraltar,36.1324,-5.3781
+Saint-Denis,-20.8789,55.4481
+Malabo,3.7521,8.7737
+Podgorica,42.4397,19.2661
+Manama,26.225,50.5775
+Port Louis,-20.1667,57.5
+Willemstad,12.108,-68.935
+Bern,46.948,7.4474
+Papeete,-17.5334,-149.5667
+Luxembourg,49.6106,6.1328
+Reykjavík,64.1475,-21.935
+Praia,14.9177,-23.5092
+Sri Jayewardenepura Kotte,6.9,79.9164
+Bridgetown,13.0975,-59.6167
+Moroni,-11.7036,43.2536
+Thimphu,27.4833,89.6333
+Mbabane,-26.3208,31.1617
+Nouméa,-22.2625,166.4443
+Honiara,-9.4333,159.95
+Suva,-18.1333,178.4333
+Ankara,39.93,32.85
+Castries,14.0167,-60.9833
+Cayenne,4.933,-52.33
+São Tomé,0.3333,6.7333
+Port-Vila,-17.7333,168.3167
+Hamilton,32.2942,-64.7839
+Bandar Seri Begawan,4.9167,114.9167
+Monaco,43.7396,7.4069
+Gitega,-3.4283,29.925
+Port of Spain,10.6667,-61.5167
+Apia,-13.8333,-171.8333
+Tarawa,1.3382,173.0176
+Oranjestad,12.5186,-70.0358
+Saint Helier,49.1858,-2.11
+Banjul,13.4531,-16.5775
+Mamoudzou,-12.7871,45.275
+Majuro,7.0918,171.3802
+Douglas,54.15,-4.4819
+George Town,19.2866,-81.3744
+Victoria,-4.6236,55.4544
+Kingstown,13.1667,-61.2333
+Andorra la Vella,42.5,1.5
+Saint John’s,17.1211,-61.8447
+Nuku‘alofa,-21.1347,-175.2083
+Ashgabat,37.95,58.3833
+Nuuk,64.175,-51.7333
+Belmopan,17.25,-88.7675
+Roseau,15.3,-61.3833
+Basseterre,17.2983,-62.7342
+Tórshavn,62.0,-6.7833
+Pago Pago,-14.274,-170.7046
+Valletta,35.8978,14.5125
+Gaza,31.5069,34.456
+Grand Turk,21.4664,-71.136
+Palikir,6.9178,158.185
+Funafuti,-8.5243,179.1942
+Vaduz,47.1397,9.5219
+Lobamba,-26.4465,31.2064
+Avarua,-21.207,-159.771
+Saint George’s,12.0444,-61.7417
+San Marino,43.932,12.4484
+Al Quds,31.7799,35.2219
+Capitol Hill,15.2137,145.7546
+Stanley,-51.7,-57.85
+Vatican City,41.9033,12.4534
+Alofi,-19.056,-169.921
+Basse-Terre,16.0104,-61.7055
+Hagåtña,13.4745,144.7504
+Marigot,18.0706,-63.0847
+Jamestown,-15.9251,-5.7179
+Brades,16.7928,-62.2106
+Philipsburg,18.0256,-63.0492
+Yaren,-0.5477,166.9209
+Pristina,42.6633,21.1622
+Gustavia,17.8958,-62.8508
+Road Town,18.4167,-64.6167
+Ngerulmud,7.5006,134.6242
+Saint-Pierre,46.7811,-56.1764
+The Valley,18.2167,-63.05
+Mata-Utu,-13.2825,-176.1736
+Kingston,-29.0569,167.9617
+Longyearbyen,78.2167,15.6333
+Tifariti,26.0928,-10.6089
+Adamstown,-25.0667,-130.0833
+Flying Fish Cove,-10.4167,105.7167
+King Edward Point,-54.2833,-36.5
+San Juan,18.4037,-66.0636
+Charlotte Amalie,18.3419,-64.9332
